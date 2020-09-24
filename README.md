@@ -22,7 +22,7 @@ Esse repositório será alimentado ao longo do curso com roteiros de aula e tuto
 
 As aulas terão conteúdo expositivo sobre conceitos e ferramentas básicas utilizados durante o curso, mas a maior parte do tempo será dedicada à realização de tutoriais assistidos. Trabalharemos em dupla, cada um em seu computador. O professor acompanhará o andamento de cada dupla, tirando as dúvidas (sim, elas surgirão).
 
-Não esqueçam de preencher a planilha enviada por e-mail e disponível [aqui](link) indicando seu nível de R entre: **nunca usei**; **usei pouco ou há muito tempo**; ou **utilizo com frequência**.
+Não esqueçam de preencher a planilha enviada por e-mail e disponível [aqui](link) indicando seu nível de R entre: **nunca usei**; **usei pouco ou há muito tempo**; ou **utilizo com frequência**. Isso será usado para a formação das duplas.
 
 ### Presença e avaliação
 
