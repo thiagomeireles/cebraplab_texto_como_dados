@@ -22,11 +22,13 @@ Esse repositório será alimentado ao longo do curso com roteiros de aula e tuto
 
 As aulas terão conteúdo expositivo sobre conceitos e ferramentas básicas utilizados durante o curso, mas a maior parte do tempo será dedicada à realização de tutoriais assistidos. Trabalharemos em dupla, cada um em seu computador. O professor acompanhará o andamento de cada dupla, tirando as dúvidas (sim, elas surgirão).
 
-Não esqueçam de preencher a planilha enviada por e-mail e disponível [aqui](link) indicando seu nível de R entre: **nunca usei**; **usei pouco ou há muito tempo**; ou **utilizo com frequência**. Isso será usado para a formação das duplas.
+Não esqueçam de preencher a planilha enviada por e-mail e disponível [aqui](https://docs.google.com/spreadsheets/d/16-hL0y4DJnrzVtDJyGCRqdJTn2pldK2tzs7u3_jW1RY/edit) indicando seu nível de R entre: **nunca usei**; **usei pouco ou há muito tempo**; ou **utilizo com frequência**. Isso será usado para a formação das duplas.
 
 ### Presença e avaliação
 
-No final de cada roteiro de aula será enviada uma lista virtual para preenchimento. O único requisito para o certificado é a presença em dois dos três encontros.
+Em todos os roteiros teremos links para a sala do Zoom e para a lista virtual.
+
+O requisito para a emissão de certificado é a presença em dois dos três encontros virtuais.
 
 No entanto, ressalto a importância das atividades de terça e quinta-feira. O primeiro por ser um desafio de colocar em prática com seu material o que veremos na segunda-feira. O segundo por dar uma visão mais ampla sobre *text mining* com os quais trabalharemos no último encontro.
 
