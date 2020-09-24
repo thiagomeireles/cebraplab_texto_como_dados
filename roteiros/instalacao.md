@@ -2,9 +2,9 @@
 
 Antes do curso, é esperado que todos os alunos instalem o R e o RStudio em suas máquinas. 
 
-R é a linguagem que utilizaremos no curso e o R apresenta somente um console de comandos para programação.
+R é a linguagem que utilizaremos no curso e o software R apresenta somente um console de comandos para programação dessa linguagem.
 
-Já o RStudio é um IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) que, em outras palavras, é um ambiente mais amigável para trabalhar com a linguagem.
+Já o RStudio é um IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) que é uma sigla bonita para falar de um programa mais amigável para trabalhar com a linguagem.
 
 O curso todo será realizado no RStudio, mas para que funcione é necessária a instalação prévia do R.
 
@@ -29,5 +29,5 @@ updateR()
 
 - Caso seu computador pessoal seja [Mac ou Linux](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) siga as instruções para instalação somente do R e do RStudio, ignorando os pacotes. Falaremos deles no início da primeira aula.
 
-- Caso encontrem problemas na realização dos tutoriais de instalação, entrem em contato via [e-mail](thiagomeireles@usp.br).
+**Em caso de problemas na realização dos tutoriais de instalação, entrem em contato via [e-mail](thiagomeireles@usp.br).**
 
