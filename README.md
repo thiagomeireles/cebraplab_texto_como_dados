@@ -19,7 +19,7 @@ O laboratório apresenta as principais ferramentas de captura de dados na Intern
 ## Requisitos
 A participação no curso requer uma exposição prévia à linguagem R e ao ambiente de tabalho do RStudio.
 
-Caso não tenha nenhum contato com a linguagem, é mandatória a realização de um [tutorial de preparação](https://www.datacamp.com/courses/free-introduction-to-r antes do início das aulas. Ele é recomendado mesmo para aqueles que já tiveram algum contato.
+Caso não tenha nenhum contato com a linguagem, é mandatória a realização de um [tutorial de preparação](https://www.datacamp.com/courses/free-introduction-to-r) antes do início das aulas. Ele é recomendado mesmo para aqueles que já tiveram algum contato.
 
 ## Objetivos
 
