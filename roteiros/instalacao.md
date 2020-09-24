@@ -29,5 +29,5 @@ updateR()
 
 - Caso seu computador pessoal seja [Mac ou Linux](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) siga as instruções para instalação somente do R e do RStudio, ignorando os pacotes. Falaremos deles no início da primeira aula.
 
-**Em caso de problemas na realização dos tutoriais de instalação, entrem em contato via [e-mail](thiagomeireles@usp.br).**
+**Em caso de problemas na realização dos tutoriais de instalação, entrem em contato via [e-mail](mailto:thiagomeireles@usp.br).**
 
