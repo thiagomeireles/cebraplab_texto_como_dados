@@ -4,7 +4,7 @@ Antes do curso, é esperado que todos os alunos instalem o R e o RStudio em suas
 
 R é a linguagem que utilizaremos no curso e o R apresenta somente um console de comandos para programação.
 
-Já o RStudio é uma IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) que, em outras palavras, é um ambiente mais amigável para trabalhar com a linguagem.
+Já o RStudio é um IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) que, em outras palavras, é um ambiente mais amigável para trabalhar com a linguagem.
 
 O curso todo será realizado no RStudio, mas para que funcione é necessária a instalação prévia do R.
 
