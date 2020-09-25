@@ -66,9 +66,13 @@ Os participantes, ao fim do curso, serão capazes de:
 Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, as linhas abaixo serão preenchidas com links com as descrições do que esperamos em cada dia de curso e como o faremos.
 
 28/09/2020 - O básico da raspagem de dados
+
 30/09/2020 - Desafios de raspagem de dados
+
 01/10/2020 - Introdução à manipulação de textos como dados
+
 02/10/2020 - A pesquisa com *text mining*
+
 03/10/2020 - *Text mining* em R
 
 ### Tutoriais
