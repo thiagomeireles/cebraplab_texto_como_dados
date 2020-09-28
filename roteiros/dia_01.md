@@ -10,6 +10,12 @@ No entanto, como a maior parte das informações de interesse não estão em tab
 
 Hoje é a aula mais importante do curso, na qual trataremos de uma situação mais geral e complexa. Aprendemos a extrair qualquer conteúdo de uma página utilizando os *caminhos* dos elementos da página no código *html*. Não se assuste se não conhece *html*, veremos que é bem simples. 
 
+## Links da aula
+
+[Sala no Zoom](https://us02web.zoom.us/j/85167865433?pwd=bk1UL0pFbTZ5RXdTZDlNdm9RWmkvZz09)
+
+[Lista de Presença](https://docs.google.com/spreadsheets/d/1NT69-A9HjmTQyyhZt23c8mVo5z7Jcqb566dixP5L-mE/edit#gid=0)
+
 ## Roteiro de aula
 
 1- Apresentação do curso e dos participantes;
