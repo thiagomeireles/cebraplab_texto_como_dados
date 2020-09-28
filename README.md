@@ -65,7 +65,7 @@ Os participantes, ao fim do curso, serão capazes de:
 
 Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, as linhas abaixo serão preenchidas com links com as descrições do que esperamos em cada dia de curso e como o faremos.
 
-28/09/2020 - O básico da raspagem de dados
+[28/09/2020](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/dia_01.md) - O básico da raspagem de dados
 
 30/09/2020 - Desafios de raspagem de dados
 
@@ -79,11 +79,11 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 Os links para os tutoriais estarão abaixo antes de cada aula.
 
-[Tutorial 1] Páginas com tabelas
+[Tutorial 1](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_1.md) - Páginas com tabelas
 
-[Tutorial 2] Introdução ao XPath
+[Tutorial 2](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_2.md): Realizar a extração de qualquer conteúdo de uma página utilizando os "caminhos" dos elementos da página no código html - Introdução ao XPath
 
-[Tutorial 3] Captura de notícias da Folha
+[Tutorial 3](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_3.md): Extrair informações de uma sequência páginas (ex. portal de notícias) - Captura de notícias da Folha
 
 [Tutorial 4] Captura de notícias do Data Folha
 
