@@ -55,7 +55,7 @@ Foi preparado um [Roteiro pré-curso](https://github.com/thiagomeireles/cebrapla
 
 Os participantes, ao fim do curso, serão capazes de:
 - Coletar dados de sites de estrutura mais simples, como jornais e legislativos brasileiros;
-- Realizar tarefas relacionadas a mineiração de texto a partir de diferentes abordagens
+- Realizar tarefas relacionadas a mineração de texto a partir de diferentes abordagens
 - Produzir gráficos e grafos mais simples a partir dos dados coletados
 - Entender e aplicar conceitos básicos de *text mining*
 
