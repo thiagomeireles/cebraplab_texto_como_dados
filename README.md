@@ -79,7 +79,7 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 Os links para os tutoriais estarão abaixo antes de cada aula.
 
-[Tutorial 1](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_1.md) - Páginas com tabelas
+[Tutorial 1](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_1.md): Páginas com tabelas
 
 [Tutorial 2](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_2.md): Realizar a extração de qualquer conteúdo de uma página utilizando os "caminhos" dos elementos da página no código html - Introdução ao XPath
 
