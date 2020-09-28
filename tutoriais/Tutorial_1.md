@@ -58,7 +58,7 @@ Utilizando as funções _class_ e _str_ conseguimos identificar o tipo de objeto
 
 ### For loop e links com numeração de página
 
-Vamos começar visitando o site da Folha de São Paulo e entrar na ferramenta de pesquisa de proposições. Clique [aqui](http://www.al.sp.gov.br/alesp/pesquisa-proposicoes/) para acessar a página.
+Vamos começar visitando o site da Folha de São Paulo e entrar na ferramenta de pesquisa de proposições. Clique [aqui](https://search.folha.uol.com.br/) para acessar a página.
 
 Ao acessar o site, podemos elaborar uma pesquisa que retorne um númedo de respostas que tornaria ineficiente a coleta manual, como, por exemplo, a palavra "covid".
 
