@@ -12,7 +12,7 @@ Hoje é a aula mais importante do curso, na qual trataremos de uma situação ma
 
 ## Links da aula
 
-[Sala no Zoom](https://us02web.zoom.us/j/85167865433?pwd=bk1UL0pFbTZ5RXdTZDlNdm9RWmkvZz09)
+[Sala no Zoom](https://us02web.zoom.us/j/85167865433?pwd=bk1UL0pFbTZ5RXdTZDlNdm9RWmkvZz09) - Senha: cebraplab
 
 [Lista de Presença](https://docs.google.com/spreadsheets/d/1NT69-A9HjmTQyyhZt23c8mVo5z7Jcqb566dixP5L-mE/edit#gid=0)
 
