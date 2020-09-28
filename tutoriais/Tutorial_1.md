@@ -152,7 +152,7 @@ print(url)
 Agora que temos o código substituindo funcionando, vamos implementar o loop para que as URLs das páginas sejam geradas automaticamente. Por exemplo, se quisermos "imprimir" na tela as páginas 0 a 5, podemos usar o seguinte código:
 
 ```{r}
-url_base <- "https://www.al.sp.gov.br/alesp/pesquisa-proposicoes/?direction=acima&lastPage=177&currentPage=REFERENCIA&act=detalhe&idDocumento=&rowsPerPage=20&currentPageDetalhe=1&tpDocumento=&method=search&text=previdencia&natureId=&legislativeNumber=&legislativeYear=&natureIdMainDoc=&anoDeExercicio=&strInitialDate=&strFinalDate=&author=&supporter=&politicalPartyId=&stageId="
+url_base <- ""https://search.folha.uol.com.br/search?q=covid&site=todos&periodo=todos&results_count=1306&search_time=0%2C019&url=http%3A%2F%2Fsearch.folha.uol.com.br%2Fsearch%3Fq%3Dcovid%26site%3Dtodos%26periodo%3Dtodos&sr=REFERENCIA""
 
 for(i in 0:5){
   url <- gsub("REFERENCIA", 1+i*25, url_base)
