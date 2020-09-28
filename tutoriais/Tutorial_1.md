@@ -1,13 +1,6 @@
----
-title: "Tutorial 1"
-output: html_document
----
+# Tutorial 1
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = F, warning = F, results = "hide")
-```
-
-# Pacotes no R
+## Pacotes no R
 
 Muitas ações que precisamos em atividades diversas executadas não fazem parte da biblioteca básica do R, mas outros desenvolvedores já desenvolveram funções para isso. Em muitos casos, diversas funções são compiladas em novas bibliotecas direcionadas para atividades bem específicas. Essas bibliotecas (ou pacotes de funções) são disponibilziadas pela comunidade de R e, após aprovação, vão para um diretório com bibliotecas já testadas, o [CRAN](https://cran.r-project.org/web/packages/policies.html).
 
@@ -25,7 +18,7 @@ library(rvest)
 
 Excelente! Já temos boa parte das funções que precisamos disponíveis para o nosso primeiro tutorial. Vamos utilizá-las logo mais.
 
-# Tidyverse
+## Tidyverse
 
 O pacote _rvest_ faz parte de um "universo" de pacotes camado _tidyverse_. O _tidyverse_ é uma compilação de diversas bibliotecas que, grosso modo, compõem uma linguagem "alternativa" dentro do R. Os pacotes mais conhecidos são o _dplyr_ e o _ggplot2_.
 
@@ -37,7 +30,7 @@ if (!require("tidyverse")) install.packages("tidyverse"); library(tidyverse)
 
 Dica: se você "chamar" o pacote _tidyverse_, não precisará chamar _rvest_, pois a função do _tidyverse_ é carregar todos os pacotes que o compõem.
 
-# Capturando o conteúdo de uma página com _rvest_
+## Capturando o conteúdo de uma página com _rvest_
 
 Para acessar o conteúdo de uma página, precisamos de funções que façam algo semelhante a um navegador de internet, ou seja, que se comuniquem com o servidor da página e receba o seu conteúdo. Para capturar uma página, ou melhor, o código HTML no qual a página está escrita, utilizamos a função _read\_html_, do pacote _rvest_. Vamos usar um exemplo com wikipedia.
 
@@ -61,9 +54,9 @@ str(tabelas_wiki)
 
 Utilizando as funções _class_ e _str_ conseguimos identificar o tipo de objeto gerado e como ele foi estruturado. Geramos em uma lista com 7 tabelas. Voltaremos a elas mais tarde.
 
-# Atividade inicial - Pesquisa no site da Folha de São Paulo
+## Atividade inicial - Pesquisa no site da Folha de São Paulo
 
-## For loop e links com numeração de página
+### For loop e links com numeração de página
 
 Vamos começar visitando o site da Folha de São Paulo e entrar na ferramenta de pesquisa de proposições. Clique [aqui](http://www.al.sp.gov.br/alesp/pesquisa-proposicoes/) para acessar a página.
 
@@ -110,7 +103,7 @@ for (i in 3:15) {
 }
 ```
 
-## Substituição com gsub
+### Substituição com gsub
 
 Cumprimos uma etapa importante: observamos o funcionamento dos loops de forma intuitiva. O próximo passo é fazer com que ele "passe" pelas páginas que contém a informação que nos interessa. Assim, devemos instruir o programa a passar pelas páginas de 1 a 177, substituindo apenas o número da página atual -- "currentPage" -- no endereço URL que guardamos no objeto url_base.
 
@@ -170,7 +163,7 @@ for(i in 0:5){
 Note que aqui a função é de substituição obedece a particularidade da nossa página. Temos a expressão "1+i*25" como o que vai substituir, uma vez que 1 é o primeiro restulado, i representa o avanço da página e 25 o número de resultados em cada uma. Mas por que começamos um 0? Porque na primeira página não adicionamos os 25 resultados como referência ao primeiro valor.
 
 
-## Listas
+### Listas
 
 Um detalhe fundamental do resultado das funções do pacote *rvest* é que o resultado vem em lista. Por que uma lista? Porque pode haver mais de uma tabela página e cada tabela ocupará uma posição na lista, como vimos aqui, ou nas outras estruturas que veremos a seguir. Para o R, uma lista pode combinar objetos de diversas classes: vetores, data frames, matrizes, etc.
 
@@ -219,7 +212,7 @@ head(gigantes)
 
 Bem mais bonito, não? No entanto, os dados estão bagunçados. Retomaremos adiante.
 
-## Data Frames
+### Data Frames
 
 Excelente, não? Mas e aí? Cadê os dados? O problema é que até agora ainda não fizemos nada com os dados, ou seja, ainda não guardamos eles em novos objetos para depois podermos utilizá-los na análise. Da mesma forma, vimos que as informações estão um pouco bagunçadas, não?
 
@@ -238,7 +231,7 @@ meus.dados.completos <- bind_rows(meus.dados1, meus.dados2)
 print(meus.dados.completos)
 ```
 
-## Captura das tabelas com armazenamento em data frames
+### Captura das tabelas com armazenamento em data frames
 
 Pronto. Podemos agora criar um data frame vazio ("dados") e preenchê-lo com os dados capturados em cada iteração. O resultado final será um objeto com todas as tabelas de todas as páginas capturadas, que é o nosso objetivo central. 
 
