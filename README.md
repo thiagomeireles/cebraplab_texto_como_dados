@@ -85,7 +85,7 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 
 [Tutorial 3](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_3.md): Extrair informações de uma sequência páginas (ex. portal de notícias) - Captura de notícias da Folha
 
-[Tutorial 4] Captura de notícias do Data Folha
+[Tutorial 4](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_4.md): Captura de notícias do Data Folha
 
 [Tutorial 5] Mineração de Texto - pacote stringr
 
