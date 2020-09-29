@@ -9,3 +9,5 @@ Em seguida (e para quem terminou tudo de ontem) sigam para o [Tutorial 4](https:
 No fim, quem conseguir terminar e tiver tempo para iniciar alguma raspagem pessoal, o faça. No caso de dúvidas, responderei na manhã de quarta-feira via [e-mail](mailto:thiagomeireles@usp.br).
 
 Bom trabalho!
+
+**Dica: muitas vezes nos deparamos com erros que não sabemos resolver. A sorte é que provavelmente alguém sabe e já disponibilizou a solução na comunidade de R. Quando encontrarem algum problema que não saibam solucionar, busquem por tópicos no [Stackoverflow](https://pt.stackoverflow.com/).**
