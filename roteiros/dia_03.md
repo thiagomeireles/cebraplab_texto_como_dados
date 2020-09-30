@@ -14,3 +14,9 @@ A aula de hoje está focada na mineiração de texto (*text mining*) e apesentar
 - O [Tutorial 6](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_6.md) apresenta o pacote *tm*. *tm*: foi principal pacote para mineiração de texto e análise de dados textuais em R por muitos anos. Apresenta como manipular e transformar vetores de texto. 
 
 - O [Tutorial 7](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_7.md) traz o pacote *tidytext*, a alternativa para mineração de texto na família *tidyverse*. Ele é mais recente e tem novas possibilidades para integração com outros pacotes da família *tidy*.
+
+## Links
+
+[Zoom](https://us02web.zoom.us/j/87938736553?pwd=aFo3Zko3ZkVEQUI1V2dkUWZEVUxFQT09)
+
+[Lista de Presença](https://docs.google.com/spreadsheets/d/1NT69-A9HjmTQyyhZt23c8mVo5z7Jcqb566dixP5L-mE/edit#gid=0)
