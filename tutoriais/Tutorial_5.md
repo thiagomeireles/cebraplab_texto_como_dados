@@ -122,11 +122,11 @@ max(str_count(noticias, "Bolsonaro"))
 Vamos fazer uma substituição nos noticias. No lugar de "Lula" colocaremos a expressão "Lula, guerreiro do povo brasileiro,". E no lugar de "Bolsonaro", "Bolsonaro, Brasil acima de tudo e Deus acima de todos," Podemos fazer a substituição com _str\_replace_ ou com _str\_replace\_all_. A diferença entre ambas é que _str\_replace_ substitui apenas a primeira ocorrênca encontrada, enquanto _str\_replace\_all_ substitui todas as ocorrências.
 
 ```{r}
-str_replace(noticias_lula, "Lula", "Lula, guerreiro do povo brasileiro,")
-str_replace_all(noticias_lula, "Lula", "Lula, guerreiro do povo brasileiro,")
+str_replace(noticias_lula[1:3], "Lula", "Lula, guerreiro do povo brasileiro,")
+str_replace_all(noticias_lula[1:3], "Lula", "Lula, guerreiro do povo brasileiro,")
 
-str_replace(noticias_bolsonaro, "Bolsonaro", "Bolsonaro, Brasil acima de tudo e Deus acima de todos,")
-str_replace_all(noticias_bolsonaro, "Bolsonaro", "Bolsonaro, Brasil acima de tudo e Deus acima de todos,")
+str_replace(noticias_bolsonaro[1:3], "Bolsonaro", "Bolsonaro, Brasil acima de tudo e Deus acima de todos,")
+str_replace_all(noticias_bolsonaro[1:3], "Bolsonaro", "Bolsonaro, Brasil acima de tudo e Deus acima de todos,")
 ```
 
 Em vez de substituir, queremos conhecer a posição das ocorrências de "Lula" e de Bolsonaro. Com _str\_locate_ e _str\_locate\_all_, respectivamente para a primeira ocorrência e todas as ocorrências, obtemos a posição de começo e fim do padrão buscado:
