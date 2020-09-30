@@ -69,7 +69,7 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 [30/09/2020](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/dia_02.md) - Desafios de raspagem de dados
 
-01/10/2020 - Introdução à manipulação de textos como dados
+[01/10/2020](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/dia_03.md) - Introdução à manipulação de textos como dados
 
 02/10/2020 - A pesquisa com *text mining*
 
