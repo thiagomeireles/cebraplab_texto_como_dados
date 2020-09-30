@@ -227,4 +227,4 @@ Se quisermos rapidamente olhar os termos com frequência maior do que, digamos, 
 findFreqTerms(dtm_noticias, 500)
 ```
 
-Há uma série de usos para a classe Corpus do pacote _tm_ para mineração de texto. Não vamos explorá-los e você pode buscar sozinh@. Vamos adotar agora uma abordagem que não envolve a criação de um Corpus.
+Há uma série de usos para a classe Corpus do pacote _tm_ para mineração de texto. Não vamos explorá-los agora e você pode buscar sozinh@. Vamos adotar agora uma abordagem que não envolve a criação de um Corpus.
