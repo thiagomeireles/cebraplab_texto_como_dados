@@ -71,9 +71,9 @@ Todas os dias de curso terão roteiros a cumprir. Pouco antes de cada encontro, 
 
 [01/10/2020](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/dia_03.md) - Introdução à manipulação de textos como dados
 
-02/10/2020 - A pesquisa com *text mining*
+[02/10/2020](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/dia_04.md) - A pesquisa quantitativa com texto
 
-03/10/2020 - *Text mining* em R
+[03/10/2020](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/roteiros/dia_05.md) - *Text mining* em R
 
 ### Tutoriais
 
@@ -87,13 +87,13 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 
 [Tutorial 4](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_4.md): Captura de notícias do Data Folha
 
-[Tutorial 5] Mineração de Texto - pacote stringr
+[Tutorial 5](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_5.md): Mineração de Texto - pacote *stringr*
 
-[Tutorial 6] Mineração de Texto - pacote tm
+[Tutorial 6](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_6.md): Mineração de Texto - pacote *tm*
 
-[Tutorial 7] Mineração de Texto - pacote tidytext
+[Tutorial 7](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_7.md): Mineração de Texto - pacote *tidytext*
 
-[Tutorial 8] Texto como dados e o pacote quanteda
+[Tutorial 8] Texto como dados e o pacote *quanteda*
 
 ## Referências
 
