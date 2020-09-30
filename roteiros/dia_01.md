@@ -1,4 +1,4 @@
-# Textos como dados: raspagem e mineração de dados em R" do cebrap.lab
+# "Textos como dados: raspagem e mineração de dados em R"" do cebrap.lab - O básico da raspagem de dados
 
 ## Objetivos Gerais
 
