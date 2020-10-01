@@ -1,1 +1,2 @@
 
+**Caso seja usuário do Windows, faça o download do [RTools](https://cran.r-project.org/bin/windows/Rtools/) antes de abrir o R para iniciar o tutorial.** Ele é necessário para trabalhar com um pacote de desenvolimento de pacotes (sim, é isso mesmo). Não se assustem, não faremos um pacote, mas precisamos dele para instalar aqueles que não estão no repositório CRAN. Falamos disso com mais detalhe no Tutorial 9.
