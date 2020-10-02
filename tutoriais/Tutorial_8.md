@@ -296,7 +296,6 @@ Para execução das funções de forma mais eficiente no tutorial, tabalharemos 
 ```{r}
 corpus_noticias_2018_2020 <- corpus_subset(corpus_noticias, ano >= 2018)
 
-# make a dfm
 dfm_noticias_2018_2020 <- dfm(corpus_noticias_2018_2020)
 dfm_noticias_2018_2020[, 1:5]
 ```
