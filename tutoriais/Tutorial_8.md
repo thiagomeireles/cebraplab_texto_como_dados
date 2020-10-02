@@ -37,8 +37,6 @@ Espero que tenham percebido a lógica da instalação. Dizemos que queremos que 
 
 ## Criando um corpus
 
-You load the package to access to functions and data in the package.
-
 ```{r, message = FALSE}
 library("quanteda")
 ```
