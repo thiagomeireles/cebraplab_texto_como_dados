@@ -93,7 +93,7 @@ Os links para os tutoriais estarão abaixo antes de cada aula.
 
 [Tutorial 7](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_7.md): Mineração de Texto - pacote *tidytext*
 
-[Tutorial 8] Texto como dados e o pacote *quanteda*
+[Tutorial 8](https://github.com/thiagomeireles/cebraplab_texto_como_dados/blob/master/tutoriais/Tutorial_8.md) Texto como dados e o pacote *quanteda*
 
 ## Referências
 
