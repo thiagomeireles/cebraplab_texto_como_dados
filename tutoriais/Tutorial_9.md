@@ -16,7 +16,7 @@ Vemos que o corpus contém 58 discursos de posse presidencial dos EUA. Mas vamos
 
 
 ```{r, eval = FALSE}
-dic_aff <- dictionary(data_dictionary_AFINN)
+dic_aff <- dictionary(quanteda.dictionaries::data_dictionary_AFINN)
 dfmat_inaug_subset <- dfm(data_corpus_inaugural[54:58], dictionary = dic_aff)
 dfmat_inaug_subset
 ```
