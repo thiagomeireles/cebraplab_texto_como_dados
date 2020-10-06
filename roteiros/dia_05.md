@@ -13,7 +13,4 @@
 
 ## Links
 
-[Zoom](https://us02web.zoom.us/j/89558797274?pwd=NjU1MUxVcFllOGlhbmF1TVg4UStGdz09)
-
-[Lista de Presença](https://docs.google.com/spreadsheets/d/1NT69-A9HjmTQyyhZt23c8mVo5z7Jcqb566dixP5L-mE/edit#gid=0)
-
+[Slides do terceiro encontro](https://drive.google.com/file/d/12hqSktPZI782jjd7yJof9IXPHWWDP-Ht/view?usp=sharing)
