@@ -17,6 +17,4 @@ A aula de hoje está focada na mineiração de texto (*text mining*) e apesentar
 
 ## Links
 
-[Zoom](https://us02web.zoom.us/j/87938736553?pwd=aFo3Zko3ZkVEQUI1V2dkUWZEVUxFQT09)
-
-[Lista de Presença](https://docs.google.com/spreadsheets/d/1NT69-A9HjmTQyyhZt23c8mVo5z7Jcqb566dixP5L-mE/edit#gid=0)
+[Slides do segundo encontro](https://drive.google.com/file/d/1JhFXfwfwhXCHKdcmqT0yXtBBKKospD8S/view?usp=sharing)
