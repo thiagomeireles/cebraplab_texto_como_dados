@@ -6,7 +6,7 @@ Hoje não teremos tutoriais obrigatórios, ainda que os capítulos do livro [Tex
 
 ### Obrigatórias
 
-1- Assistir [o vídeo do Maurício Izumi produzido para o curso](https://drive.google.com/file/d/1JXa_p2kRkCigMOqbzYeCLeLO407uJKqo/view?usp=sharing). Nele traz um panorama geral do que se faz em pesquisa quantitativa de texto e apresenta exemplos de pesquisas já publicadas e em andamento utilizando essas metodologias. Como a Monise disse na abertura do curso, o vídeo ficará disponível por mais uma semana e não tem opção de download.
+1- Assistir o vídeo do Maurício Izumi produzido para o curso. Nele traz um panorama geral do que se faz em pesquisa quantitativa de texto e apresenta exemplos de pesquisas já publicadas e em andamento utilizando essas metodologias. Como a Monise disse na abertura do curso, o vídeo ficará disponível por mais uma semana e não tem opção de download.
 
 2- Leitura do artigo da BiB [O texto como dado: desafios e oportunidades para as ciências sociais](https://www.anpocs.com/index.php/bib-pt/bib-86/11215-o-texto-como-dado-desafios-e-oportunidades-para-as-ciencias-sociais/file) pro próprio Mauríco Izumi em coautoria com Davi Moreira (professor RI-FGV). Sei que muitos aqui não tem tanta proximidade com formalização matemática e não tem muito problema por agora, mas busquem entender o que esses métodos tentam oferecer.
 
